@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SerfinsaApp</string>
+    <string name="open_drawer_content_desc">Open Drawer Content Desc</string>
+    <string name="close_drawer_content_desc">Close Drawer Content Desc</string>
+    <string name="web_client_id">968580286948-b40u606b5qqotn8qjribokth6tkg1ium.apps.googleusercontent.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="commerce_name">Nombre del comercio</string>
+    <string name="department">Departamento</string>
+    <string name="document_number">Número de documento</string>
+    <string name="select_image">Seleccionar imagen</string>
+    <string name="affiliate_commerce">Afiliar negocio</string>
+    <string name="success_aggregate_commerce">Comercio agregado exitosamente</string>
+    <string name="something_went_wrong">Algo salió mal</string>
+</resources>
